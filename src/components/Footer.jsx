@@ -39,7 +39,7 @@ function Footer() {
             &copy; My <span> Eats </span>, 2024. Designed by
             <a
               href="https://github.com/greatestofal"
-              target="_blank"
+              target="_blank rel='noopener noreferrer'"
               className="text-orange-500 ml-2"
             >
               Greatestofall
